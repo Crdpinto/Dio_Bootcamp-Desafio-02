@@ -81,6 +81,3 @@ Este projeto visa desenvolver um esquema conceitual de banco de dados para um si
 
 ### **Considerações Finais**
 Este esquema conceitual foi desenvolvido com base na narrativa fornecida e abrange os principais aspectos operacionais de uma oficina mecânica, para garantir a integridade e a eficiência do gerenciamento de ordens de serviço.
-
-> [!NOTE]
-> Estou a disposição para sugestões e críticas que ajudem na melhoria deste modelo e na minha evolução pessoal.
