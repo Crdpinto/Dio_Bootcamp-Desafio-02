@@ -78,3 +78,4 @@ Colunas:
 Peças OS_idPeças OS (INT) - Chave Estrangeira
 Peça_idPeça (INT) - Chave Estrangeira
 
+![Oficina](https://github.com/user-attachments/assets/685aebf5-c403-4fb6-8d55-1fabeb45e8dc)
